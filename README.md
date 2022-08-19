@@ -1,4 +1,4 @@
-# TopDown_Snow
+# TopDown_Leaves
 
 Basic, but cool 2D fallen leaves for top down games
 It doesn't use objects for each snow, nor the built-in particle system.
